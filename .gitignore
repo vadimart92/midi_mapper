@@ -1,0 +1,5 @@
+target/
+/src/dynamic_midi/lib/teVirtualMIDI.h
+/src/dynamic_midi/lib/teVirtualMIDI32.lib
+/src/dynamic_midi/lib/teVirtualMIDI64.lib
+/src/dynamic_midi/lib/teVirtualMIDITest.c
